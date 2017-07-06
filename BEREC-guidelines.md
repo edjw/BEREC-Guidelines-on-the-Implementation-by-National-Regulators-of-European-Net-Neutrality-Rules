@@ -712,7 +712,7 @@ subparagraph, namely that:
 
 151. NRAs could set requirements in accordance with Article 5(1) on how speeds defined in the contract relate to advertised speeds, for example that the advertised speed should not exceed the maximum speed defined in the contract.
 
-#### Specifying speeds of an IAS in mobile networks*
+#### Specifying speeds of an IAS in mobile networks
 
 152. Estimated maximum and advertised download and upload speeds should be described in contracts according to paragraphs 153-157.
 

@@ -1,5 +1,7 @@
 BoR (16) 127
+
 BEREC Guidelines on the Implementation by National Regulators of European Net Neutrality Rules
+
 August 2016
 
 
@@ -46,6 +48,7 @@ say they neither impose nor discriminate in favour of the use of a particular ty
 7. The definitions of Article 2 of Directive 2002/21/EC also apply for the purposes of these Guidelines. This includes the terms “end-user”, “consumer”, “electronic communications services”, “electronic communications network” and “network termination point (NTP)”.
 
 **“Provider of electronic communications to the public”**
+
 > (1) ‘provider of electronic communications to the public’ means an undertaking providing public communications networks or publicly available electronic communications services;
 
 8. The term “provider of electronic communications to the public” (PECP) comprises both “public communications networks” and “electronic communications services” (ECS), which are defined in Article 2 of the Framework Directive.6
@@ -64,6 +67,7 @@ say they neither impose nor discriminate in favour of the use of a particular ty
 Examples of criteria which could be used to make assessments include the contractual relationship under which the service is provided, the range of users and whether the range is predetermined.
 
 **“Internet access service”**
+
 > (2) ‘internet access service’ means a publicly available electronic communications service that provides access to the internet, and thereby connectivity to virtually all end points of the internet, irrespective of the network technology and terminal equipment used.
 
 *Recital 4*
@@ -110,9 +114,11 @@ Examples of criteria which could be used to make assessments include the contrac
 23. Firstly, end-users have the right to access and distribute information and content. “Access and distribute” means that the provisions of this Regulation apply to both sending and receiving data over the IAS. “Information and content” is intended to cover any form of data that can be sent or received over the IAS.
 
 **“Use and provide applications and services”**
+
 24. Secondly, end-users have the right to use and provide applications and services. “Use and provide” means that the right applies both to consumption and provision of applications and services. “Applications and services” means both applications (including client and server software) as well as services.
 
 **“Use terminal equipment of their choice”**
+
 25. Thirdly, end-users have the right to use terminal equipment of their choice. Directive 2008/63/EC defines “terminal equipment” as “equipment directly or indirectly connected to the interface of a public telecommunication network”. The right to choose terminal equipment therefore covers equipment which connects to the interface of the public telecommunications network. This interface, the network termination point (NTP), is defined in Article 2 (da) of the Framework Directive (2002/21/EC), meaning the physical point at which a subscriber is provided with access to a public communications network.
 
 26. In considering whether end-users may use the terminal equipment of their choice, NRAs should assess whether an ISP provides equipment for its subscribers and restricts the end-users’ ability to replace that equipment with their own equipment, i.e. whether it provides “obligatory equipment”.
@@ -120,6 +126,7 @@ Examples of criteria which could be used to make assessments include the contrac
 27. Moreover, NRAs should consider whether there is an objective technological necessity for the obligatory equipment to be considered as part of the ISP network. If there is not, and if the choice of terminal equipment is limited, the practice would be in conflict with the Regulation. For example, the practice of restricting tethering9 is likely to constitute a restriction on choice of terminal equipment because ISPs “should not impose restrictions on the use of terminal equipment connecting to the network in addition to those imposed by manufacturers or distributors of terminal equipment in accordance with Union law” (Recital 5).
 
 **Legislation related to the lawfulness of the content, applications or services**
+
 28. Article 3(1) second subparagraph specifies that Union law, and national law that complies with Union law, related to the lawfulness of content, applications or services still applies. The TSM Regulation does not seek to regulate the lawfulness of the content, applications or services (ref. Recital 6).
 
 29. Whereas Article 3(1) second subparagraph contains a clarification with regard to the applicability of such legislation, Article 3(3) (a) provides for an exception for ISPs to implement measures going beyond reasonable traffic management measures in order to comply with legislation or measures as specified in that exception.
@@ -139,12 +146,15 @@ Examples of criteria which could be used to make assessments include the contrac
 * the provision that such agreements and commercial practices shall not limit the exercise of the end-users’ rights laid down in Article 3(1).
 
 **Agreements on commercial and technical conditions and the characteristics of internet access services**
+
 32. Agreements refer to contractual relationships between ISPs and end-users that may include, as stated in the Regulation, commercial conditions (such as pricing), technical conditions (such as data volumes and speed) and any characteristics of the IAS. It should be noted that it will often be the case that commercial and technical conditions can be intertwined.
 
 **Commercial practices**
+
 33. Commercial practices may consist of all relevant aspects of ISPs’ commercial behaviour, including unilateral practices, of the ISP.10
 
 **Shall not limit the exercise of end-users’ rights**
+
 34. With regard to characteristics of IAS, agreeing on tariffs for specific data volumes and speeds of the IAS would not represent a limitation of the exercise of the end-users’ rights (ref. Recital 7). Moreover, BEREC considers that end-users’ rights are likely to be unaffected, at least in the case that data volume and speed characteristics are applied in an application-agnostic way (applying equally to all applications).
 
 35. Examples of commercial practices which are likely to be acceptable would include:
@@ -244,6 +254,7 @@ cap is reached in order to purchase access to additional data.
 57. In assessing whether an ISP complies with the principle of equal treatment set out in Article 3(3) first subparagraph, NRAs should take into account whether a measure is a reasonable traffic management measure. The principle of equal treatment of traffic does not prevent ISPs from implementing reasonable traffic management measures in compliance with Article 3(3) second subparagraph.
 
 **“Transparent, non-discriminatory and proportionate”**
+
 58. In considering whether a traffic management measure is reasonable, NRAs should in a first step assess whether the traffic management measure is transparent, nondiscriminatory and proportionate. These terms are legal principles that are already used in everyday regulatory practice when applying EU law and respective national law.
 
 59. Under Article 3(3), NRAs should require ISPs to provide transparent information about traffic management practices and the impact of these practices (see also Articles 4 and 5).
@@ -269,6 +280,7 @@ cap is reached in order to purchase access to additional data.
 * The traffic management measure has to be appropriate, e.g. to balance the competing requirements of different traffic categories or competing interests of different groups.
 
 **“Objectively different technical QoS requirements of traffic categories”**
+
 62. In assessing whether a traffic management measure is reasonable, NRAs should assess the justification put forward by the ISP. In order to be considered to be reasonable, a traffic management measure has to be based on objectively different technical QoS requirements of specific categories of traffic. Examples for technical QoS requirements are latency, jitter, packet loss, and bandwidth.
 
 63. Traffic categories should typically be defined based on QoS requirements, whereby a traffic category will contain a flow of packets from applications with similar requirements. Therefore, if ISPs implement different technical QoS requirements of specific categories of traffic, this should be done objectively by basing them on the sensitivity to QoS requirements of the applications (e.g. latency, jitter, packet loss, and bandwidth). For example, such a category may consist of real-time applications requiring a short time delay between sender and receiver.18
@@ -287,14 +299,17 @@ cap is reached in order to purchase access to additional data.
 67. ISPs may prioritise network management and control traffic over the rest of their traffic. Such traffic management practices should be considered as reasonable, provided that they are transparent and are aimed at properly configuring and securing the network and its equipment by efficiently balancing load, e.g. by reacting as fast as possible in case of congestion, failures, outages, etc.
 
 **“Not based on commercial considerations”**
+
 68. In the event that traffic management measures are based on commercial grounds, the traffic management measure is not reasonable. An obvious example of this could be where an ISP charges for usage of different traffic categories or where the traffic management measure reflects the commercial interests of an ISP that offers certain applications or partners with a provider of certain applications. However, NRAs do not need to prove that a traffic management measure is based on commercial grounds; it is sufficient to establish that the traffic management measure is not based on objectively different technical QoS requirements.
 
 **“Shall not monitor the specific content”**
+
 69. In assessing traffic management measures, NRAs should ensure that such measures do not monitor the specific content (i.e. transport layer protocol payload).
 
 70. Conversely, traffic management measures that monitor aspects other than the specific content, i.e. the generic content, should be deemed to be allowed. Monitoring techniques used by ISPs which rely on the information contained in the IP packet header, and transport layer protocol header (e.g. TCP) may be deemed to be generic content, as opposed to the specific content provided by end-users themselves (such as text, pictures and video).
 
 **“Shall not be maintained longer than necessary”**
+
 71. In assessing traffic management measures, NRAs should take into account that such measures shall not be maintained longer than necessary.
 
 72. BEREC understands this term as relating to the proportionality of reasonable traffic management measures in terms of duration, in parallel to the explicit precondition “shall be proportionate” which relates to their proportionality in terms of scope (type and proportion of traffic affected, impact on the rest of traffic, equal treatment of comparable situations etc.).
@@ -302,9 +317,11 @@ cap is reached in order to purchase access to additional data.
 73. This does not prevent, per se, a trigger function to be implemented and in place (but with the traffic management measure not yet effective) on an ongoing basis inasmuch as the traffic management measure only becomes effective in times of necessity. Necessity can materialise several times, or even regularly, over a given period of time. However, where traffic management measures are in effect on a permanent or recurring basis, their necessity might be questionable and NRAs should, in such scenarios, consider whether the traffic management measures can still be qualified as reasonable within the meaning of Article 3(3) second subparagraph.
 
 **Distinction from exceptional traffic management measures**
+
 74. Article 3(3) third subparagraph clarifies that, under Article 3(3) second subparagraph, inter alia, the following traffic management measures are prohibited: blocking, slowing down, alteration, restriction, interference with, degradation, and discrimination between specific content, applications or services, or specific categories thereof.
 
 **Distinction from specialised services**
+
 75. BEREC understands that “categories of traffic” should be clearly distinguished from specialised services. Article 3(5) clarifies that specialised services may be provided for optimisation reasons in order to meet requirements for a specific level of quality. On the other hand, the use of “categories of traffic” under Article 3(3) second subparagraph is permitted for the optimisation of the overall transmission quality (ref. Recital 9).
 
 ## Article 3(3) third subparagraph
@@ -573,6 +590,7 @@ subparagraph, namely that:
 142. BEREC understands that the requirement on ISPs to include in the contract and publish information about advertised speeds does not entail a requirement to advertise speeds; rather, it is limited to including in the contract and publishing information about speeds which are advertised by the ISP. The requirement to specify the advertised speed requires an ISP to explain the advertised speed of the particular IAS offer included in the contract, if its speed has been advertised. An ISP may naturally also advertise other IAS offers of higher or lower speeds that are not included in the contract to which the subscriber is party (whether by choice or due to unavailability of the service at their location), in accordance with laws governing marketing.
 
 **Specifying speeds for an IAS in case of fixed networks**
+
 *Minimum speed*
 143. The minimum speed is the lowest speed that the ISP undertakes to deliver to the end-user, according to the contract which includes the IAS. In principle, the actual speed should not be lower than the minimum speed, except in cases of interruption of the IAS. If the actual speed of an IAS is significantly, and continuously or regularly, lower than the minimum speed, it would indicate non-conformity of performance regarding the agreed minimum speed.
 144. NRAs34 could set requirements on defining minimum speed under Article 5(1), for example that the minimum speed could be in reasonable proportion to the maximum speed.
@@ -599,6 +617,7 @@ subparagraph, namely that:
 151. NRAs could set requirements in accordance with Article 5(1) on how speeds defined in the contract relate to advertised speeds, for example that the advertised speed should not exceed the maximum speed defined in the contract.
 
 **Specifying speeds of an IAS in mobile networks**
+
 152. Estimated maximum and advertised download and upload speeds should be described in contracts according to paragraphs 153-157.
 
 *Estimated maximum speed*
@@ -650,6 +669,7 @@ subparagraph, namely that:
 163. The methodologies that could be used by certified monitoring mechanisms are further discussed in the next section on Methodology for monitoring IAS performance. The purpose of this guidance regarding methodologies is to contribute to the consistent application of the Regulation. However, NRAs should be able to use their existing measurement tools and these Guidelines do not require NRAs to change them.
 
 **Methodology for monitoring IAS performance**
+
 164. NRAs should consider BoR (14) 11735 when implementing a measurement methodology. Measurements should mitigate, to the extent possible, confounding factors which are internal to the user environment, such as existing cross-traffic and the wireless/wireline interface.
 
 165. When implementing measurement methodologies, NRAs should consider guidance on methodologies developed during BEREC’s work on QoS in the context of Net Neutrality, especially those found in:
@@ -675,6 +695,7 @@ National regulatory authorities shall publish reports on an annual basis regardi
 > National regulatory authorities play an essential role in ensuring that end-users are able to exercise effectively their rights under this Regulation and that the rules on the safeguarding of open internet access are complied with. To that end, national regulatory authorities should have monitoring and reporting obligations, and should ensure that providers of electronic communications to the public, including providers of internet access services, comply with their obligations concerning the safeguarding of open internet access. Those include the obligation to ensure sufficient network capacity for the provision of high quality non-discriminatory internet access services, the general quality of which should not incur a detriment by reason of the provision of services other than internet access services, with a specific level of quality. National regulatory authorities should also have powers to impose requirements concerning technical characteristics, minimum quality of service requirements and other appropriate measures on all or individual providers of electronic communications to the public if this is necessary to ensure compliance with the provisions of this Regulation on the safeguarding of open internet access or to prevent degradation of the general quality of service of internet access services for end-users. In doing so, national regulatory authorities should take utmost account of relevant guidelines from BEREC.
 
 **The general approach for supervision**
+
 167. With regard to the duties and powers of NRAs set out in Article 5, there are three types of NRA actions to monitor and ensure compliance with Articles 3 and 4.
 
 * Supervision, which encompasses monitoring by the NRA as set out in Article 5(1), and facilitated by the powers to gather information from ISPs in Article 5(2), on:
@@ -696,6 +717,7 @@ National regulatory authorities shall publish reports on an annual basis regardi
 170. Further guidance for specific Articles of the Regulation is described in paragraphs 171183, and under Articles 3(2) and 3(5).
 
 **Monitoring traffic management practices**
+
 171. NRAs have the power to collect traffic management information, for instance by:
 
 * evaluating traffic management practices applied by ISPs, including exceptions (allowed by Article 3(3) third subparagraph);
@@ -719,6 +741,7 @@ National regulatory authorities shall publish reports on an annual basis regardi
 173. NRAs should develop appropriate monitoring policies for detecting infringements of the Regulation and determining necessary actions for guaranteeing that the rights and obligations set out in the Regulation are fulfilled.
 
 **Monitoring and assessment of IAS performance**
+
 174. IAS performance assessment can be performed at the user or market level:
 
 * User-level assessment: end-user measurements of the performance of IAS offers can be performed to check whether the ISP is fulfilling its contract. Measurement results are compared to the contracted performance of the IAS offer.
@@ -743,6 +766,7 @@ National regulatory authorities shall publish reports on an annual basis regardi
 * comparison of IAS offers in the market; investigating possible degradation caused by specialised services.
 
 **Monitoring of transparency requirements on ISPs**
+
 177. NRAs should monitor transparency requirements on ISPs and could do this by:
 
 * monitoring that ISPs have specified and published the required information according to Article 4(1);
@@ -756,6 +780,7 @@ National regulatory authorities shall publish reports on an annual basis regardi
 * collecting information on complaints related to infringements of the Regulation.
 
 **Enforcement**
+
 178. In order to ensure compliance with the Regulation, and to promote the continued availability of non-discriminatory IAS at levels of quality that reflect advances in technology, NRAs could decide to:
 
 * require an ISP to take measures to eliminate or remove the factor that is causing the degradation;
@@ -793,6 +818,7 @@ National regulatory authorities shall publish reports on an annual basis regardi
 * Proportionality implies limiting the requirements to the adequate scope, and that the obligation imposed by the requirement is in pursuit of a legitimate aim, appropriate to the pursued aim and there is no less interfering and equally effective alternative way of achieving this aim. For example, if specific ISPs offer degraded IAS services or infringe the traffic management rules of the Regulation, then the proportionate requirements may focus on these ISPs in particular.
 
 **Annual reporting of NRAs**
+
 182. The reports must be published on an annual basis, and NRAs should publish their annual reports by 30th June for the periods starting from 1st May to 30th April. The first report is to be provided by 30th June 2017, covering the period from 30th April 2016 to 30th April 2017 (the first 12 months following application of the provisions).
 
 183. As well as being published, the reports should be provided to the Commission and to BEREC. To enable the Commission and BEREC to more easily compare the reports, BEREC recommends that NRAs include at least the following sections in their annual reports:
@@ -847,7 +873,7 @@ National regulatory authorities shall publish reports on an annual basis regardi
 
 185. These Guidelines constitute compliance with this provision. BEREC will review and update the Guidelines as and when it considers it to be appropriate.
 
-## Article 5(4)
+## Article 5(4)
 > This Article is without prejudice to the tasks assigned by Member States to the national regulatory authorities or to other competent authorities in compliance with Union law.
 
 186. NRAs and other competent authorities may also have other supervision and enforcement tasks assigned to them by Member States in compliance with Union law. Such duties may arise out of, for example, consumer and competition law, in addition to the regulatory framework for electronic communications. Article 5 does not affect the tasks of NRAs or other competent national or European authorities arising from such laws, regardless of the fact that such tasks may overlap with the duties of NRAs (or other competent authorities) as set out in the Article. The Regulation does not affect NRAs' or other national authorities' competences to supervise and enforce Directive 95/46/EC or Directive 2002/58/EC referred to in Article 3(4), as such tasks continue to be assigned by national law.

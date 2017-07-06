@@ -24,14 +24,14 @@ Specialised service: In these Guidelines, BEREC uses the term “specialised ser
 # Article 1 – Subject matter and scope
 > This Regulation establishes common rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users’ rights.
 
-*Recital 1*
+### Recital 1
 > This Regulation aims to establish common rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users’ rights. It aims to protect end-users and simultaneously to guarantee the continued functioning of the internet ecosystem as an engine of innovation.
 
-*Recital 2*
+### Recital 2
 > The measures provided for in this Regulation respect the principle of technological neutrality, that is to
 say they neither impose nor discriminate in favour of the use of a particular type of technology.
 
-*Recital 3*
+### Recital 3
 > The internet has developed over the past decades as an open platform for innovation with low access barriers for end-users, providers of content, applications and services and providers of internet access services. The existing regulatory framework aims to promote the ability of end-users to access and distribute information or run applications and services of their choice. However, a significant number of end-users are affected by traffic management practices which block or slow down specific applications or services. Those tendencies require common rules at the Union level to ensure the openness of the internet and to avoid fragmentation of the internal market resulting from measures adopted by individual Member States.
 
 3. Article 1 sets out the subject matter and scope of the Regulation, which is to establish common rules to safeguard “equal and non-discriminatory treatment of traffic in the provision of internet access services” and “related end-users’ rights”.
@@ -47,7 +47,7 @@ say they neither impose nor discriminate in favour of the use of a particular ty
 
 7. The definitions of Article 2 of Directive 2002/21/EC also apply for the purposes of these Guidelines. This includes the terms “end-user”, “consumer”, “electronic communications services”, “electronic communications network” and “network termination point (NTP)”.
 
-### “Provider of electronic communications to the public”
+#### “Provider of electronic communications to the public”
 
 > (1) ‘provider of electronic communications to the public’ means an undertaking providing public communications networks or publicly available electronic communications services;
 
@@ -66,11 +66,11 @@ say they neither impose nor discriminate in favour of the use of a particular ty
 
 Examples of criteria which could be used to make assessments include the contractual relationship under which the service is provided, the range of users and whether the range is predetermined.
 
-### “Internet access service”
+#### “Internet access service”
 
 > (2) ‘internet access service’ means a publicly available electronic communications service that provides access to the internet, and thereby connectivity to virtually all end points of the internet, irrespective of the network technology and terminal equipment used.
 
-*Recital 4*
+### Recital 4
 > An internet access service provides access to the internet, and in principle to all the end-points thereof, irrespective of the network technology and terminal equipment used by end-users. However, for reasons outside the control of providers of internet access services, certain end points of the internet may not always be accessible. Therefore, such providers should be deemed to have complied with their obligations related to the provision of an internet access service within the meaning of this Regulation when that service provides connectivity to virtually all end points of the internet. Providers of internet access services should therefore not restrict connectivity to any accessible end-points of the internet.
 
 13. Article 2(2) defines an “internet access service” (IAS) as an ECS that provides access to the internet, and thereby connectivity to virtually all end points of the internet, irrespective of the network technology and terminal equipment used.
@@ -102,10 +102,10 @@ Examples of criteria which could be used to make assessments include the contrac
 > 
 > This paragraph is without prejudice to Union law, or national law that complies with Union law, related to the lawfulness of the content, applications or services.
 
-*Recital 5*
+### Recital 5
 > When accessing the internet, end-users should be free to choose between various types of terminal equipment as defined in Commission Directive 2008/63/EC (1). Providers of internet access services should not impose restrictions on the use of terminal equipment connecting to the network in addition to those imposed by manufacturers or distributors of terminal equipment in accordance with Union law.
 
-*Recital 6*
+### Recital 6
 > End-users should have the right to access and distribute information and content, and to use and provide applications and services without discrimination, via their internet access service. The exercise of this right should be without prejudice to Union law, or national law that complies with Union law, regarding the lawfulness of content, applications or services. This Regulation does not seek to regulate the lawfulness of the content, applications or services, nor does it seek to regulate the procedures, requirements and safeguards related thereto. Those matters therefore remain subject to Union law, or national law that complies with Union law.
 
 22. Article 3(1) sets out the end-users’ rights with regard to the open internet. The notion of end-user is explained in paragraph 4 of these Guidelines.
@@ -113,11 +113,11 @@ Examples of criteria which could be used to make assessments include the contrac
 “Access and distribute information and content”
 23. Firstly, end-users have the right to access and distribute information and content. “Access and distribute” means that the provisions of this Regulation apply to both sending and receiving data over the IAS. “Information and content” is intended to cover any form of data that can be sent or received over the IAS.
 
-### “Use and provide applications and services”
+#### “Use and provide applications and services”
 
 24. Secondly, end-users have the right to use and provide applications and services. “Use and provide” means that the right applies both to consumption and provision of applications and services. “Applications and services” means both applications (including client and server software) as well as services.
 
-### “Use terminal equipment of their choice”
+#### “Use terminal equipment of their choice”
 
 25. Thirdly, end-users have the right to use terminal equipment of their choice. Directive 2008/63/EC defines “terminal equipment” as “equipment directly or indirectly connected to the interface of a public telecommunication network”. The right to choose terminal equipment therefore covers equipment which connects to the interface of the public telecommunications network. This interface, the network termination point (NTP), is defined in Article 2 (da) of the Framework Directive (2002/21/EC), meaning the physical point at which a subscriber is provided with access to a public communications network.
 
@@ -125,7 +125,7 @@ Examples of criteria which could be used to make assessments include the contrac
 
 27. Moreover, NRAs should consider whether there is an objective technological necessity for the obligatory equipment to be considered as part of the ISP network. If there is not, and if the choice of terminal equipment is limited, the practice would be in conflict with the Regulation. For example, the practice of restricting tethering9 is likely to constitute a restriction on choice of terminal equipment because ISPs “should not impose restrictions on the use of terminal equipment connecting to the network in addition to those imposed by manufacturers or distributors of terminal equipment in accordance with Union law” (Recital 5).
 
-### Legislation related to the lawfulness of the content, applications or services
+#### Legislation related to the lawfulness of the content, applications or services
 
 28. Article 3(1) second subparagraph specifies that Union law, and national law that complies with Union law, related to the lawfulness of content, applications or services still applies. The TSM Regulation does not seek to regulate the lawfulness of the content, applications or services (ref. Recital 6).
 
@@ -134,7 +134,7 @@ Examples of criteria which could be used to make assessments include the contrac
 ## Article 3(2)
 > Agreements between providers of internet access services and end-users on commercial and technical conditions and the characteristics of internet access services such as price, data volumes or speed, and any commercial practices conducted by providers of internet access services, shall not limit the exercise of the rights of end-users laid down in paragraph 1.
 
-*Recital 7*
+### Recital 7
 > In order to exercise their rights to access and distribute information and content and to use and provide applications and services of their choice, end-users should be free to agree with providers of internet access services on tariffs for specific data volumes and speeds of the internet access service. Such agreements, as well as any commercial practices of providers of internet access services, should not limit the exercise of those rights and thus circumvent provisions of this Regulation safeguarding open internet access. National regulatory and other competent authorities should be empowered to intervene against agreements or commercial practices which, by reason of their scale, lead to situations where end-users’ choice is materially reduced in practice. To this end, the assessment of agreements and commercial practices should, inter alia, take into account the respective market positions of those providers of internet access services, and of the providers of content, applications and services, that are involved. National regulatory and other competent authorities should be required, as part of their monitoring and enforcement function, to intervene when  agreements or commercial practices would result in the undermining of the essence of the end-users’ rights.
 
 30. Article 3(2) clarifies that agreements between ISPs and end-users on commercial and technical conditions and the characteristics of IAS such as price, data volumes or speed, and any commercial practices conducted by ISPs are allowed, but shall not limit the exercise of the rights of end-users laid down in Article 3(1).
@@ -145,15 +145,15 @@ Examples of criteria which could be used to make assessments include the contrac
 
 * the provision that such agreements and commercial practices shall not limit the exercise of the end-users’ rights laid down in Article 3(1).
 
-### Agreements on commercial and technical conditions and the characteristics of internet access services
+#### Agreements on commercial and technical conditions and the characteristics of internet access services
 
 32. Agreements refer to contractual relationships between ISPs and end-users that may include, as stated in the Regulation, commercial conditions (such as pricing), technical conditions (such as data volumes and speed) and any characteristics of the IAS. It should be noted that it will often be the case that commercial and technical conditions can be intertwined.
 
-### Commercial practices
+#### Commercial practices
 
 33. Commercial practices may consist of all relevant aspects of ISPs’ commercial behaviour, including unilateral practices, of the ISP.10
 
-### Shall not limit the exercise of end-users’ rights
+#### Shall not limit the exercise of end-users’ rights
 
 34. With regard to characteristics of IAS, agreeing on tariffs for specific data volumes and speeds of the IAS would not represent a limitation of the exercise of the end-users’ rights (ref. Recital 7). Moreover, BEREC considers that end-users’ rights are likely to be unaffected, at least in the case that data volume and speed characteristics are applied in an application-agnostic way (applying equally to all applications).
 
@@ -210,7 +210,7 @@ cap is reached in order to purchase access to additional data.
 ## Article 3(3) first subparagraph
 > Providers of internet access services shall treat all traffic equally, when providing internet access services, without discrimination, restriction or interference, and irrespective of the sender and receiver, the content accessed or distributed, the applications or services used or provided, or the terminal equipment used.
 
-*Recital 8*
+### Recital 8
 > When providing internet access services, providers of those services should treat all traffic equally, without discrimination, restriction or interference, independently of its sender or receiver, content, application or service, or terminal equipment. According to general principles of Union law and settled case-law, comparable situations should not be treated differently and different situations should not be treated in the same way unless such treatment is objectively justified.
 
 49. A basic principle of the Regulation relates to traffic management and is the obligation on ISPs to treat all traffic equally when providing IAS. Typically, infringements of this principle which are not justified according to Article 3(3) would also constitute an infringement of the end-user rights set out in Article 3(1).
@@ -244,17 +244,17 @@ cap is reached in order to purchase access to additional data.
 ## Article 3(3) second subparagraph
 > The first subparagraph shall not prevent providers of internet access services from implementing reasonable traffic management measures. In order to be deemed to be reasonable, such measures shall be transparent, non-discriminatory and proportionate, and shall not be based on commercial considerations but on objectively different technical quality of service requirements of specific categories of traffic. Such measures shall not monitor the specific content and shall not be maintained for longer than necessary.
 
-*Recital 9*
+### Recital 9
 > The objective of reasonable traffic management is to contribute to an efficient use of network resources and to an optimisation of overall transmission quality responding to the objectively different technical quality of service requirements of specific categories of traffic, and thus of the content, applications and services transmitted. Reasonable traffic management measures applied by providers of internet access services should be transparent, non-discriminatory and proportionate, and should not be based on commercial considerations. The requirement for traffic management measures to be non-discriminatory does not preclude providers of internet access services from implementing, in order to optimise the overall transmission quality, traffic management measures which differentiate between objectively different categories of traffic. Any such differentiation should, in order to optimise overall quality and user experience, be permitted only on the basis of objectively different technical quality of service requirements (for example, in terms of latency, jitter, packet loss, and bandwidth) of the specific categories of traffic, and not on the basis of commercial considerations. Such differentiating measures should be proportionate in relation to the purpose of overall quality optimisation and should treat equivalent traffic equally. Such measures should not be maintained for longer than necessary.
 
-*Recital 10*
+### Recital 10
 > Reasonable traffic management does not require techniques which monitor the specific content of data traffic transmitted via the internet access service.
 
-### Traffic management measures <sup>17</sup>
+#### Traffic management measures <sup>17</sup>
 
 57. In assessing whether an ISP complies with the principle of equal treatment set out in Article 3(3) first subparagraph, NRAs should take into account whether a measure is a reasonable traffic management measure. The principle of equal treatment of traffic does not prevent ISPs from implementing reasonable traffic management measures in compliance with Article 3(3) second subparagraph.
 
-### “Transparent, non-discriminatory and proportionate”
+#### “Transparent, non-discriminatory and proportionate”
 
 58. In considering whether a traffic management measure is reasonable, NRAs should in a first step assess whether the traffic management measure is transparent, nondiscriminatory and proportionate. These terms are legal principles that are already used in everyday regulatory practice when applying EU law and respective national law.
 
@@ -280,7 +280,7 @@ cap is reached in order to purchase access to additional data.
 * There is not a less interfering and equally effective alternative way of managing traffic to achieve this aim (e.g. equal treatment without categories of traffic) with the available network resources;
 * The traffic management measure has to be appropriate, e.g. to balance the competing requirements of different traffic categories or competing interests of different groups.
 
-### “Objectively different technical QoS requirements of traffic categories”
+#### “Objectively different technical QoS requirements of traffic categories”
 
 62. In assessing whether a traffic management measure is reasonable, NRAs should assess the justification put forward by the ISP. In order to be considered to be reasonable, a traffic management measure has to be based on objectively different technical QoS requirements of specific categories of traffic. Examples for technical QoS requirements are latency, jitter, packet loss, and bandwidth.
 
@@ -299,17 +299,17 @@ cap is reached in order to purchase access to additional data.
 
 67. ISPs may prioritise network management and control traffic over the rest of their traffic. Such traffic management practices should be considered as reasonable, provided that they are transparent and are aimed at properly configuring and securing the network and its equipment by efficiently balancing load, e.g. by reacting as fast as possible in case of congestion, failures, outages, etc.
 
-### “Not based on commercial considerations”
+#### “Not based on commercial considerations”
 
 68. In the event that traffic management measures are based on commercial grounds, the traffic management measure is not reasonable. An obvious example of this could be where an ISP charges for usage of different traffic categories or where the traffic management measure reflects the commercial interests of an ISP that offers certain applications or partners with a provider of certain applications. However, NRAs do not need to prove that a traffic management measure is based on commercial grounds; it is sufficient to establish that the traffic management measure is not based on objectively different technical QoS requirements.
 
-### “Shall not monitor the specific content”
+#### “Shall not monitor the specific content”
 
 69. In assessing traffic management measures, NRAs should ensure that such measures do not monitor the specific content (i.e. transport layer protocol payload).
 
 70. Conversely, traffic management measures that monitor aspects other than the specific content, i.e. the generic content, should be deemed to be allowed. Monitoring techniques used by ISPs which rely on the information contained in the IP packet header, and transport layer protocol header (e.g. TCP) may be deemed to be generic content, as opposed to the specific content provided by end-users themselves (such as text, pictures and video).
 
-### “Shall not be maintained longer than necessary”
+#### “Shall not be maintained longer than necessary”
 
 71. In assessing traffic management measures, NRAs should take into account that such measures shall not be maintained longer than necessary.
 
@@ -317,21 +317,21 @@ cap is reached in order to purchase access to additional data.
 
 73. This does not prevent, per se, a trigger function to be implemented and in place (but with the traffic management measure not yet effective) on an ongoing basis inasmuch as the traffic management measure only becomes effective in times of necessity. Necessity can materialise several times, or even regularly, over a given period of time. However, where traffic management measures are in effect on a permanent or recurring basis, their necessity might be questionable and NRAs should, in such scenarios, consider whether the traffic management measures can still be qualified as reasonable within the meaning of Article 3(3) second subparagraph.
 
-### Distinction from exceptional traffic management measures
+#### Distinction from exceptional traffic management measures
 
 74. Article 3(3) third subparagraph clarifies that, under Article 3(3) second subparagraph, inter alia, the following traffic management measures are prohibited: blocking, slowing down, alteration, restriction, interference with, degradation, and discrimination between specific content, applications or services, or specific categories thereof.
 
-### Distinction from specialised services
+#### Distinction from specialised services
 
 75. BEREC understands that “categories of traffic” should be clearly distinguished from specialised services. Article 3(5) clarifies that specialised services may be provided for optimisation reasons in order to meet requirements for a specific level of quality. On the other hand, the use of “categories of traffic” under Article 3(3) second subparagraph is permitted for the optimisation of the overall transmission quality (ref. Recital 9).
 
 ## Article 3(3) third subparagraph
 > Providers of internet access services shall not engage in traffic management measures going beyond those set out in the second subparagraph, and in particular shall not block, slow down, alter, restrict, interfere with, degrade or discriminate between specific content, applications or services, or specific categories thereof, except as necessary, and only for as long as necessary, in order to:
 
-*Recital 11*
+### Recital 11
 > Any traffic management practices which go beyond such reasonable traffic management measures, by blocking, slowing down, altering, restricting, interfering with, degrading or discriminating between specific content, applications or services, or specific categories of content, applications or services, should be prohibited, subject to the justified and defined exceptions laid down in this Regulation. Those exceptions should be subject to strict interpretation and to proportionality requirements. Specific content, applications and services, as well as specific categories thereof, should be protected because of the negative impact on end-user choice and innovation of blocking, or of other restrictive measures not falling within the justified exceptions. Rules against altering content, applications or services refer to a modification of the content of the communication, but do not ban nondiscriminatory data compression techniques which reduce the size of a data file without any modification of the content. Such compression enables a more efficient use of scarce resources and serves the end-users’ interests by reducing data volumes, increasing speed and enhancing the experience of using the content, applications or services concerned.
 
-*Recital 12*
+### Recital 12
 > Traffic management measures that go beyond such reasonable traffic management measures may only be applied as necessary and for as long as necessary to comply with the three justified exceptions laid down in this Regulation.
 
 76. Article 3(3), third subparagraph contains two aspects:
@@ -359,7 +359,7 @@ between specific content, applications or services, or specific categories there
 ## Article 3(3) (a)
 > (a) comply with Union legislative acts, or national legislation that complies with Union law, to which the provider of internet access services is subject, or with measures that comply with Union law giving effect to such Union legislative acts or national legislation, including with orders by courts or public authorities vested with relevant powers;
 
-*Recital 13*
+### Recital 13
 > First, situations may arise in which providers of internet access services are subject to Union legislative acts, or national legislation that complies with Union law (for example, related to the lawfulness of content, applications or services, or to public safety), including criminal law, requiring, for example, blocking of specific content, applications or services. In addition, situations may arise in which those providers are subject to measures that comply with Union law, implementing or applying Union legislative acts or national legislation, such as measures of general application, court orders, decisions of public authorities vested with relevant powers, or other measures ensuring compliance  with such Union legislative acts or national legislation (for example, obligations to comply with court orders or orders by public authorities requiring to block unlawful content). The requirement to comply with Union law relates, inter alia, to the compliance with the requirements of the Charter of Fundamental Rights of the European Union (‘the Charter’) in relation to limitations on the exercise of fundamental rights and freedoms. As provided in Directive 2002/21/EC of the European Parliament and of the Council ( 1 ), any measures liable to restrict those fundamental rights or freedoms are only to be imposed if they are appropriate, proportionate and necessary within a democratic society, and if their implementation is subject to adequate procedural safeguards in conformity with the European Convention for the Protection of Human Rights and Fundamental Freedoms, including its provisions on effective judicial protection and due process.
 
 81. If an ISP applies traffic management measures which cannot be regarded as reasonable, NRAs should assess whether an ISP does so because it has to do so for legal reasons, namely to comply with the legislation or measures by public authorities specified in that exception.
@@ -369,7 +369,7 @@ between specific content, applications or services, or specific categories there
 ## Article 3(3) (b)
 > (b) preserve the integrity and security of the network, of services provided via that network, and of the terminal equipment of end-users;
 
-*Recital 14*
+### Recital 14
 > Second, traffic management measures going beyond such reasonable traffic management measures might be necessary to protect the integrity and security of the network, for example by preventing cyber-attacks that occur through the spread of malicious software or identity theft of end-users that occurs as a result of spyware.
 
 83. Typical attacks and threats that will trigger integrity and security measures include:
@@ -400,7 +400,7 @@ between specific content, applications or services, or specific categories there
 ## Article 3(3) (c)
 > (c) prevent impending network congestion and mitigate the effects of exceptional or temporary network congestion, provided that equivalent categories of traffic are treated equally.
 
-*Recital 15*
+### Recital 15
 > Third, measures going beyond such reasonable traffic management measures might also be necessary to prevent impending network congestion, that is, situations where congestion is about to materialise, and to mitigate the effects of network congestion, where such congestion occurs only temporarily or in exceptional circumstances. The principle of proportionality requires that traffic management measures based on that exception treat equivalent categories of traffic equally. Temporary congestion should be understood as referring to specific situations of short duration, where a sudden increase in the number of users in addition to the regular users, or a sudden increase in demand for specific content, applications or services, may overflow the transmission capacity of some elements of the network and make the rest of the network less reactive. Temporary congestion might occur especially in mobile networks, which are subject to more variable conditions, such as physical obstructions, lower indoor coverage, or a variable number of active users with changing location. While it may be predictable that such temporary congestion might occur from time to time at certain points in the network – such that it cannot be regarded as exceptional – it might not recur so often or for such extensive periods that a capacity expansion would be economically justified. Exceptional congestion should be understood as referring to unpredictable and unavoidable situations of congestion, both in mobile and fixed networks. Possible causes of those situations include a technical failure such as a service outage due to broken cables or other infrastructure elements, unexpected changes in routing of traffic or large increases in network traffic due to emergency or other situations beyond the control of providers of internet access services. Such congestion problems are likely to be infrequent but may be severe, and are not necessarily of short duration. The need to apply traffic management measures going beyond the reasonable traffic management measures in order to prevent or mitigate the effects of temporary or exceptional network congestion should not give providers of internet access services the possibility to circumvent the general prohibition on blocking, slowing down, altering, restricting, interfering with, degrading or discriminating between specific content, applications or services, or specific categories thereof. Recurrent and more long-lasting network congestion which is neither exceptional nor temporary should not benefit from that exception but should rather be tackled through expansion of network capacity.
 
 88. In exceptional cases, and for no longer than necessary, ISPs may engage in traffic management beyond the limits of Article 3(3) second subparagraph to manage certain types of network congestion, namely impending network congestions (which may be prevented) and exceptional or temporary network congestions (the effects of which may be mitigated). Recital 15 provides detailed information on identifying situations where exceptional and temporary congestion occurs. Impending network congestion is defined as situations where congestion is about to materialise, i.e. it is imminent.
@@ -439,7 +439,7 @@ between specific content, applications or services, or specific categories there
 ## Article 3(5) first subparagraph
 > Providers of electronic communications to the public, including providers of internet access services, and providers of content, applications and services shall be free to offer services other than internet access services which are optimised for specific content, applications or services, or a combination thereof, where the optimisation is necessary in order to meet requirements of the content, applications or services for a specific level of quality.
 
-*Recital 16*
+### Recital 16
 > There is demand on the part of providers of content, applications and services to be able to provide electronic communication services other than internet access services, for which specific levels of quality, that are not assured by internet access services, are necessary. Such specific levels of quality are, for instance, required by some services responding to a public interest or by some new machineto-machine communications services. Providers of electronic communications to the public, including providers of internet access services, and providers of content, applications and services should therefore be free to offer services which are not internet access services and which are optimised for specific content, applications or services, or a combination thereof, where the optimisation is necessary in order to meet the requirements of the content, applications or services for a specific level of quality. National regulatory authorities should verify whether and to what extent such optimisation is objectively necessary to ensure one or more specific and key features of the content, applications or services and to enable a corresponding quality assurance to be given to end-users, rather than simply granting general priority over comparable content, applications or services available via the internet access service and thereby circumventing the provisions regarding traffic management measures applicable to the internet access services.
 
 99. Beyond the delivery of applications through the IAS, there can be demand for services that need to be carried at a specific level of quality that cannot be assured by the standard best effort delivery.
@@ -493,7 +493,7 @@ subparagraph, namely that:
 ## Article 3(5) second subparagraph
 > Providers of electronic communications to the public, including providers of internet access services, may offer or facilitate such services only if the network capacity is sufficient to provide them in addition to any internet access services provided. Such services shall not be usable or offered as a replacement for internet access services, and shall not be to the detriment of the availability or general quality of internet access services for end-users.
 
-*Recital 17*
+### Recital 17
 > In order to avoid the provision of such other services having a negative impact on the availability or general quality of internet access services for end-users, sufficient capacity needs to be ensured. Providers of electronic communications to the public, including providers of internet access services, should, therefore, offer such other services, or conclude corresponding agreements with providers of content, applications or services facilitating such other services, only if the network capacity is sufficient for their provision in addition to any internet access services provided. The provisions of this Regulation on the safeguarding of open internet access should not be circumvented by means of other services usable or offered as a replacement for internet access services. However, the mere fact that corporate services such as virtual private networks might also give access to the internet should not result in them being considered to be a replacement of the internet access services, provided that the provision of such access to the internet by a provider of electronic communications to the public complies with Article 3(1) to (4) of this Regulation, and therefore cannot be considered to be a circumvention of those provisions. The provision of such services other than internet access services should not be to the detriment of the availability and general quality of internet access services for end-users. In mobile networks, traffic volumes in a given radio cell are more difficult to anticipate due to the varying number of active end-users, and for this reason an impact on the quality of internet access services for end-users might occur in unforeseeable circumstances. In mobile networks, the general quality of internet access services for end-users should not be deemed to incur a detriment where the aggregate negative impact of services other than internet access services is unavoidable, minimal and limited to a short duration. National regulatory authorities should ensure that providers of electronic communications to the public comply with that requirement. In this respect, national regulatory authorities should assess the impact on the availability and general quality of internet access services by analysing, inter alia, quality of service parameters (such as latency, jitter, packet loss), the levels and effects of congestion in the network, actual versus advertised speeds, the performance of internet access services as compared with services other than internet access services, and quality as perceived by end-users.
 
 *Sufficient network capacity for specialised services in addition to IAS*
@@ -535,7 +535,7 @@ subparagraph, namely that:
 > 
 >Providers of internet access services shall publish the information referred to in the first subparagraph.
 
-*Recital 18*
+### Recital 18
 > The provisions on safeguarding of open internet access should be complemented by effective end-user provisions which address issues particularly linked to internet access services and enable end-users to make informed choices. Those provisions should apply in addition to the applicable provisions of Directive 2002/22/EC of the European Parliament and of the Council (1) and Member States should have the possibility to maintain or adopt more far- reaching measures. Providers of internet access services should inform end-users in a clear manner how traffic management practices deployed might have an impact on the quality of internet access services, end-users’ privacy and the protection of personal data as well as about the possible impact of services other than internet access services to which they subscribe, on the quality and availability of their respective internet access services. In order to empower end-users in such situations, providers of internet access services should therefore inform end-users in the contract of the speed which they are able realistically to deliver. The normally available speed is understood to be the speed that an end-user could expect to receive most of the time when accessing the service. Providers of internet access services should also inform consumers of available remedies in accordance with national law in the event of noncompliance of performance. Any significant and continuous or regularly recurring difference, where established by a monitoring mechanism certified by the national regulatory authority, between the actual performance of the service and the performance indicated in the contract should be deemed to constitute non- conformity of performance for the purposes of determining the remedies available to the consumer in accordance with national law. The methodology should be established in the guidelines of the Body of European Regulators for Electronic Communications (BEREC) and reviewed and updated as necessary to reflect technology and infrastructure evolution. National regulatory authorities should enforce compliance with the rules in this Regulation on transparency measures for ensuring open internet access.
 
 128. NRAs should ensure that ISPs include relevant information referred to in Article 4(1) (a) to (e) in a clear, comprehensible and comprehensive manner in contracts that include IAS, and publish that information, for example on an ISP’s website.
@@ -596,7 +596,7 @@ subparagraph, namely that:
 
 142. BEREC understands that the requirement on ISPs to include in the contract and publish information about advertised speeds does not entail a requirement to advertise speeds; rather, it is limited to including in the contract and publishing information about speeds which are advertised by the ISP. The requirement to specify the advertised speed requires an ISP to explain the advertised speed of the particular IAS offer included in the contract, if its speed has been advertised. An ISP may naturally also advertise other IAS offers of higher or lower speeds that are not included in the contract to which the subscriber is party (whether by choice or due to unavailability of the service at their location), in accordance with laws governing marketing.
 
-### Specifying speeds for an IAS in case of fixed networks
+#### Specifying speeds for an IAS in case of fixed networks
 
 *Minimum speed*
 
@@ -627,7 +627,7 @@ subparagraph, namely that:
 
 151. NRAs could set requirements in accordance with Article 5(1) on how speeds defined in the contract relate to advertised speeds, for example that the advertised speed should not exceed the maximum speed defined in the contract.
 
-### Specifying speeds of an IAS in mobile networks*
+#### Specifying speeds of an IAS in mobile networks*
 
 152. Estimated maximum and advertised download and upload speeds should be described in contracts according to paragraphs 153-157.
 
@@ -681,7 +681,7 @@ subparagraph, namely that:
 
 163. The methodologies that could be used by certified monitoring mechanisms are further discussed in the next section on Methodology for monitoring IAS performance. The purpose of this guidance regarding methodologies is to contribute to the consistent application of the Regulation. However, NRAs should be able to use their existing measurement tools and these Guidelines do not require NRAs to change them.
 
-### Methodology for monitoring IAS performance
+#### Methodology for monitoring IAS performance
 
 164. NRAs should consider BoR (14) 11735 when implementing a measurement methodology. Measurements should mitigate, to the extent possible, confounding factors which are internal to the user environment, such as existing cross-traffic and the wireless/wireline interface.
 
@@ -704,10 +704,10 @@ subparagraph, namely that:
 > 
 > National regulatory authorities shall publish reports on an annual basis regarding their monitoring and findings, and provide those reports to the Commission and to BEREC.
 
-*Recital 19*
+### Recital 19
 > National regulatory authorities play an essential role in ensuring that end-users are able to exercise effectively their rights under this Regulation and that the rules on the safeguarding of open internet access are complied with. To that end, national regulatory authorities should have monitoring and reporting obligations, and should ensure that providers of electronic communications to the public, including providers of internet access services, comply with their obligations concerning the safeguarding of open internet access. Those include the obligation to ensure sufficient network capacity for the provision of high quality non-discriminatory internet access services, the general quality of which should not incur a detriment by reason of the provision of services other than internet access services, with a specific level of quality. National regulatory authorities should also have powers to impose requirements concerning technical characteristics, minimum quality of service requirements and other appropriate measures on all or individual providers of electronic communications to the public if this is necessary to ensure compliance with the provisions of this Regulation on the safeguarding of open internet access or to prevent degradation of the general quality of service of internet access services for end-users. In doing so, national regulatory authorities should take utmost account of relevant guidelines from BEREC.
 
-### The general approach for supervision
+#### The general approach for supervision
 
 167. With regard to the duties and powers of NRAs set out in Article 5, there are three types of NRA actions to monitor and ensure compliance with Articles 3 and 4.
 
@@ -729,7 +729,7 @@ subparagraph, namely that:
 
 170. Further guidance for specific Articles of the Regulation is described in paragraphs 171183, and under Articles 3(2) and 3(5).
 
-### Monitoring traffic management practices
+#### Monitoring traffic management practices
 
 171. NRAs have the power to collect traffic management information, for instance by:
 
@@ -753,7 +753,7 @@ subparagraph, namely that:
 
 173. NRAs should develop appropriate monitoring policies for detecting infringements of the Regulation and determining necessary actions for guaranteeing that the rights and obligations set out in the Regulation are fulfilled.
 
-### Monitoring and assessment of IAS performance
+#### Monitoring and assessment of IAS performance
 
 174. IAS performance assessment can be performed at the user or market level:
 
@@ -778,7 +778,7 @@ subparagraph, namely that:
 
 * comparison of IAS offers in the market; investigating possible degradation caused by specialised services.
 
-### Monitoring of transparency requirements on ISPs
+#### Monitoring of transparency requirements on ISPs
 
 177. NRAs should monitor transparency requirements on ISPs and could do this by:
 
@@ -792,7 +792,7 @@ subparagraph, namely that:
 
 * collecting information on complaints related to infringements of the Regulation.
 
-### Enforcement
+#### Enforcement
 
 178. In order to ensure compliance with the Regulation, and to promote the continued availability of non-discriminatory IAS at levels of quality that reflect advances in technology, NRAs could decide to:
 
@@ -830,7 +830,7 @@ subparagraph, namely that:
 
 * Proportionality implies limiting the requirements to the adequate scope, and that the obligation imposed by the requirement is in pursuit of a legitimate aim, appropriate to the pursued aim and there is no less interfering and equally effective alternative way of achieving this aim. For example, if specific ISPs offer degraded IAS services or infringe the traffic management rules of the Regulation, then the proportionate requirements may focus on these ISPs in particular.
 
-### Annual reporting of NRAs
+#### Annual reporting of NRAs
 
 182. The reports must be published on an annual basis, and NRAs should publish their annual reports by 30th June for the periods starting from 1st May to 30th April. The first report is to be provided by 30th June 2017, covering the period from 30th April 2016 to 30th April 2017 (the first 12 months following application of the provisions).
 

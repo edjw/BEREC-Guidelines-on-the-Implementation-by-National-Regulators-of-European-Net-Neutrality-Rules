@@ -6,7 +6,7 @@ August 2016
 
 
 # Background and general aspects
-1. These BEREC Guidelines drafted in accordance with Article 5(3) of the Regulation [1] are designed to provide guidance on the implementation of the obligations of NRAs. Specifically, this includes the obligations to closely monitor and ensure compliance with the rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users rights as laid down in Articles 3 and 4. These Guidelines constitute recommendations to NRAs, and NRAs should take utmost account of the Guidelines.<sup>2</sup> The Guidelines should contribute to the consistent application of the Regulation, thereby contributing to regulatory certainty for stakeholders.
+1. These BEREC Guidelines drafted in accordance with Article 5(3) of the Regulation <a href="#note1" id="note1ref"><sup>1</sup></a> are designed to provide guidance on the implementation of the obligations of NRAs. Specifically, this includes the obligations to closely monitor and ensure compliance with the rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users rights as laid down in Articles 3 and 4. These Guidelines constitute recommendations to NRAs, and NRAs should take utmost account of the Guidelines.<sup>2</sup> The Guidelines should contribute to the consistent application of the Regulation, thereby contributing to regulatory certainty for stakeholders.
 
 ## Terminology
 2. For the purpose of these Guidelines, BEREC has used the following terms throughout the Guidelines to improve readability.<sup>3</sup>
@@ -923,7 +923,7 @@ subparagraph, namely that:
 
 # Footnotes
 
-[1]: 1. Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015 laying down measures concerning open internet access and amending Directive 2002/22/EC on universal service and users’ rights relating to electronic communications networks and services and Regulation (EU) No 531/2012 on roaming on public mobile communications networks within the Union, http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R2120&from=EN
+<a id="note1" href="#note1ref">1.</a> Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015 laying down measures concerning open internet access and amending Directive 2002/22/EC on universal service and users’ rights relating to electronic communications networks and services and Regulation (EU) No 531/2012 on roaming on public mobile communications networks within the Union, http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32015R2120&from=EN
 
 2. As set out in Article 3(3) of the Regulation (EC) No 1211/2009 establishing the Body of European Regulators of Electronic Communications and the Office, http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:337:0001:0010:EN:PDF and recital 19 of Regulation (EU) 2015/2120
 

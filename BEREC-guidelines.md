@@ -1050,7 +1050,7 @@ subparagraph, namely that:
 
 <a id="note21" href="#note21ref">21.</a> See Recital 11
 
-<a id="note22" href="#note22ref">22.v Such monitoring should be subject to strict interpretation and to proportionality requirements, and should be assessed by NRAs in line with paragraph 87.
+<a id="note22" href="#note22ref">22. Such monitoring should be subject to strict interpretation and to proportionality requirements, and should be assessed by NRAs in line with paragraph 87.
 
 <a id="note23" href="#note23ref">23.</a> Such justifications should also be in line with Articles 13(a) and 13(b) of the Framework Directive
 

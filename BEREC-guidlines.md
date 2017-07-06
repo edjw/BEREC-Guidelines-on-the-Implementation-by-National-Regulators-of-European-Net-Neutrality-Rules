@@ -6,7 +6,7 @@ August 2016
 
 
 # Background and general aspects
-1. These BEREC Guidelines drafted in accordance with Article 5(3) of the Regulation<sup>[1]</sup> are designed to provide guidance on the implementation of the obligations of NRAs. Specifically, this includes the obligations to closely monitor and ensure compliance with the rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users rights as laid down in Articles 3 and 4. These Guidelines constitute recommendations to NRAs, and NRAs should take utmost account of the Guidelines.<sup>2</sup> The Guidelines should contribute to the consistent application of the Regulation, thereby contributing to regulatory certainty for stakeholders.
+1. These BEREC Guidelines drafted in accordance with Article 5(3) of the Regulation [1] are designed to provide guidance on the implementation of the obligations of NRAs. Specifically, this includes the obligations to closely monitor and ensure compliance with the rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users rights as laid down in Articles 3 and 4. These Guidelines constitute recommendations to NRAs, and NRAs should take utmost account of the Guidelines.<sup>2</sup> The Guidelines should contribute to the consistent application of the Regulation, thereby contributing to regulatory certainty for stakeholders.
 
 ## Terminology
 2. For the purpose of these Guidelines, BEREC has used the following terms throughout the Guidelines to improve readability.<sup>3</sup>

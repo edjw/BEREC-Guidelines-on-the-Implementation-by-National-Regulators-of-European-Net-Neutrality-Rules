@@ -250,7 +250,8 @@ cap is reached in order to purchase access to additional data.
 *Recital 10*
 > Reasonable traffic management does not require techniques which monitor the specific content of data traffic transmitted via the internet access service.
 
-**Traffic management measures**17
+**Traffic management measures**<sup>17</sup>
+
 57. In assessing whether an ISP complies with the principle of equal treatment set out in Article 3(3) first subparagraph, NRAs should take into account whether a measure is a reasonable traffic management measure. The principle of equal treatment of traffic does not prevent ISPs from implementing reasonable traffic management measures in compliance with Article 3(3) second subparagraph.
 
 **“Transparent, non-discriminatory and proportionate”**
@@ -428,9 +429,11 @@ between specific content, applications or services, or specific categories there
 96. The objectives referred to in Article 3(4) are those set out in Article 3(3).
 
 *“Necessary and proportionate”*
+
 97. The processing of personal data within the course of traffic management is also subject to the proportionality requirement. NRAs should assess whether the processing of personal data undertaken by ISPs is necessary and proportionate to achieve the objectives set out in Article 3(3).
 
 *“Compliance with Union law on data protection”*
+
 98. The competent national authority should assess whether the processing of personal data complies with Union law on data protection.25
 
 ## Article 3(5) first subparagraph
@@ -465,6 +468,7 @@ subparagraph, namely that:
 105. NRAs should verify whether the application could be provided over IAS at the specific levels of quality which are objectively necessary in relation to the application, or whether they are instead set up in order to circumvent the provisions regarding traffic management measures applicable to IAS, which would not be allowed.
 
 *Assessment according to Article 3(5) first subparagraph*
+
 106. Initially, the requirement of an application can be specified by the provider of the specialised service, although requirements may also be inherent to the application itself. For example, a video application could use standard definition with a low bitrate or ultra-high definition with high bitrate, and these will obviously have different QoS requirements. A typical example of inherent requirements is low latency for real-time applications.
 
 
@@ -493,6 +497,7 @@ subparagraph, namely that:
 > In order to avoid the provision of such other services having a negative impact on the availability or general quality of internet access services for end-users, sufficient capacity needs to be ensured. Providers of electronic communications to the public, including providers of internet access services, should, therefore, offer such other services, or conclude corresponding agreements with providers of content, applications or services facilitating such other services, only if the network capacity is sufficient for their provision in addition to any internet access services provided. The provisions of this Regulation on the safeguarding of open internet access should not be circumvented by means of other services usable or offered as a replacement for internet access services. However, the mere fact that corporate services such as virtual private networks might also give access to the internet should not result in them being considered to be a replacement of the internet access services, provided that the provision of such access to the internet by a provider of electronic communications to the public complies with Article 3(1) to (4) of this Regulation, and therefore cannot be considered to be a circumvention of those provisions. The provision of such services other than internet access services should not be to the detriment of the availability and general quality of internet access services for end-users. In mobile networks, traffic volumes in a given radio cell are more difficult to anticipate due to the varying number of active end-users, and for this reason an impact on the quality of internet access services for end-users might occur in unforeseeable circumstances. In mobile networks, the general quality of internet access services for end-users should not be deemed to incur a detriment where the aggregate negative impact of services other than internet access services is unavoidable, minimal and limited to a short duration. National regulatory authorities should ensure that providers of electronic communications to the public comply with that requirement. In this respect, national regulatory authorities should assess the impact on the availability and general quality of internet access services by analysing, inter alia, quality of service parameters (such as latency, jitter, packet loss), the levels and effects of congestion in the network, actual versus advertised speeds, the performance of internet access services as compared with services other than internet access services, and quality as perceived by end-users.
 
 *Sufficient network capacity for specialised services in addition to IAS*
+
 116. Specialised services shall only be offered when the network capacity is sufficient such that the IAS is not degraded (e.g. due to increased latency or jitter or lack of bandwidth) by the addition of specialised services. Both in the short and in the long term, specialised services shall not lead to a deterioration of the general IAS quality for end-users. This can, for example, be achieved by additional investments in infrastructure which allow for additional capacity so that there is no negative impact on IAS quality.
 
 117. In a network with limited capacity, IAS and specialised services could compete for overall network resources. In order to safeguard the availability of general quality of IAS, the Regulation does not allow specialised services if the network capacity is not sufficient to provide them in addition to any IAS provided, because this would lead to degradation of the IAS and thereby circumvent the Regulation. It is the general quality of the IAS which is protected from degradation by the Regulation, rather than specialised services.
@@ -504,6 +509,7 @@ subparagraph, namely that:
 120. NRAs should assess whether or not there is sufficient capacity for IAS when specialised services are provided, for example, by performing measurements of IAS.28 Methodologies for such measurements have been relatively well developed during BEREC’s Net Neutrality QoS workstreams in recent years and will continue to be improved.
 
 *“Not to the detriment of the availability or general quality of IAS”*
+
 121. Specialised services are not permissible if they are to the detriment of the availability and general quality of the IAS. There is a correlation between the performance of the IAS offer (i.e. its availability and general quality) and whether there is sufficient capacity to provide specialised services in addition to IAS. IAS quality measurements could be performed with and without specialised services, both in the short term for individual end-users (measuring with specialised services on and off respectively) and in the long term (which would include measurements before the specialised services are introduced in the market as well as after). As Recital 17 clarifies, NRAs should “assess the impact on the availability and general quality of IAS by analysing, inter alia, QoS parameters (such as latency, jitter and packet loss), the levels and effects of congestion in the network, actual versus advertised speeds and the performance of IAS as compared with services other than IAS”.
 
 122. While IAS and specialised services directly compete for the dedicated part of an end-user’s capacity, the end-user himself may determine how to use it. When it is technically impossible to provide the specialised service in parallel to IAS without detriment to the end-user’s IAS quality, NRAs should not consider this competition for capacity to be an infringement of Article 3(5) second subparagraph, as long as the end-user is informed pursuant to Article 4(1)(c) of the impact on his IAS and can obtain the contractually-agreed speeds29 for any IAS subscribed to in parallel. NRAs should not consider it to be to the detriment of the general quality of IAS when activation of the specialised service by the individual end-user only affects his own IAS. However, detrimental effects should not occur in those parts of the network where capacity is shared between different end-users.
@@ -515,6 +521,7 @@ subparagraph, namely that:
 125. NRAs should intervene if persistent decreases in performance are detected for IAS. This could be detected if the measured performance is consistently above (for metrics such as latency, jitter or packet loss) or below (for metrics such as speed) a previously detected average level for a relatively long period of time such as hours or days), or if the difference between measurement results before and after the specialised service is introduced is statistically significant. In the case of short-term assessments, the difference between measurement results with and without the specialised service should be assessed similarly.
 
 *“Not be usable or offered as a replacement for IAS”*
+
 126. It is of utmost importance that the provisions regarding specialised services do not serve as a potential circumvention of the Regulation. Therefore, NRAs should assess whether a specialised service is a potential substitute for the IAS, and if the capacity needed for their provision is to the detriment of the capacity available for IAS.
 
 127. In deciding whether a specialised service is considered as a replacement for an IAS, one important aspect that NRAs should assess is whether the service is actually providing access to the internet but in a restricted way, at a higher quality, or with differentiated traffic management. If so, this would be considered a circumvention of the Regulation.
@@ -592,15 +599,18 @@ subparagraph, namely that:
 **Specifying speeds for an IAS in case of fixed networks**
 
 *Minimum speed*
+
 143. The minimum speed is the lowest speed that the ISP undertakes to deliver to the end-user, according to the contract which includes the IAS. In principle, the actual speed should not be lower than the minimum speed, except in cases of interruption of the IAS. If the actual speed of an IAS is significantly, and continuously or regularly, lower than the minimum speed, it would indicate non-conformity of performance regarding the agreed minimum speed.
 144. NRAs34 could set requirements on defining minimum speed under Article 5(1), for example that the minimum speed could be in reasonable proportion to the maximum speed.
 
 *Maximum speed*
+
 145. The maximum speed is the speed that an end-user could expect to receive at least some of the time (e.g. at least once a day). An ISP is not required to technically limit the speed to the maximum speed defined in the contract.
 
 146. NRAs could set requirements on defining maximum speeds under Article 5(1), for example that they are achievable a specified number of times during a specified period.
 
 *Normally available speed*
+
 147. The normally available speed is the speed that an end-user could expect to receive most of the time when accessing the service. BEREC considers that the normally available speed has two dimensions: the numerical value of the speed and the availability (as a percentage) of the speed during a specified period, such as peak hours or the whole day.
 
 148. The normally available speed should be available during the specified daily period. NRAs could set requirements on defining normally available speeds under Article 5(1). Examples include:
@@ -612,15 +622,17 @@ subparagraph, namely that:
 149. In order to be meaningful, it should be possible for the end-user to evaluate the value of the normally available speed vis-à-vis the actual performance of the IAS on the basis of the information provided.
 
 *Advertised speed*
+
 150. Advertised speed is the speed an ISP uses in its commercial communications, including advertising and marketing, in connection with the promotion of IAS offers. In the event that speeds are included in an ISP’s marketing of an offer (see also paragraph 142), the advertised speed should be specified in the published information and in the contract for each IAS offer.
 
 151. NRAs could set requirements in accordance with Article 5(1) on how speeds defined in the contract relate to advertised speeds, for example that the advertised speed should not exceed the maximum speed defined in the contract.
 
-**Specifying speeds of an IAS in mobile networks**
+**Specifying speeds of an IAS in mobile networks*
 
 152. Estimated maximum and advertised download and upload speeds should be described in contracts according to paragraphs 153-157.
 
 *Estimated maximum speed*
+
 153. The estimated maximum speed for a mobile IAS should be specified so that the end-user can understand the realistically achievable maximum speed for their subscription in different locations in realistic usage conditions. The estimated maximum speed could be specified separately for different network technologies that affect the maximum speed available for an end-user. End-users should be able to understand that they may not be able to reach the maximum speed if their mobile terminal does not support the speed.
 
 154. NRAs could set requirements on defining estimated maximum speeds under Article 5(1).
@@ -628,6 +640,7 @@ subparagraph, namely that:
 155. Estimated maximum download and upload speeds could be made available in a geographical manner providing mobile IAS coverage maps with estimated/measured speed values of network coverage in all locations.
 
 *Advertised speed*
+
 156. The advertised speed for a mobile IAS offer should reflect the speed which the ISP is realistically able to deliver to end-users. Although the transparency requirements regarding IAS speed are less detailed for mobile IAS than for fixed IAS, the advertised speed should enable end-users to make informed choices, for example, so they are able to evaluate the value of the advertised speed vis-à-vis the actual performance of the IAS. Significant factors that limit the speeds achieved by end-users should be specified.
 
 157. NRAs could set requirements in accordance with Article 5(1) on how speeds defined in the contract relate to advertised speeds, for example that the advertised speed for an IAS as specified in a contract should not exceed the estimated maximum speed as defined in the same contract. See also paragraph 142.
@@ -688,8 +701,8 @@ subparagraph, namely that:
 
 ## Article 5(1)
 > National regulatory authorities shall closely monitor and ensure compliance with Articles 3 and 4, and shall promote the continued availability of non-discriminatory internet access services at levels of quality that reflect advances in technology. For those purposes, national regulatory authorities may impose requirements concerning technical characteristics, minimum quality of service requirements and other appropriate and necessary measures on one or more providers of electronic communications to the public, including providers of internet access services.
-
-National regulatory authorities shall publish reports on an annual basis regarding their monitoring and findings, and provide those reports to the Commission and to BEREC.
+> 
+> National regulatory authorities shall publish reports on an annual basis regarding their monitoring and findings, and provide those reports to the Commission and to BEREC.
 
 *Recital 19*
 > National regulatory authorities play an essential role in ensuring that end-users are able to exercise effectively their rights under this Regulation and that the rules on the safeguarding of open internet access are complied with. To that end, national regulatory authorities should have monitoring and reporting obligations, and should ensure that providers of electronic communications to the public, including providers of internet access services, comply with their obligations concerning the safeguarding of open internet access. Those include the obligation to ensure sufficient network capacity for the provision of high quality non-discriminatory internet access services, the general quality of which should not incur a detriment by reason of the provision of services other than internet access services, with a specific level of quality. National regulatory authorities should also have powers to impose requirements concerning technical characteristics, minimum quality of service requirements and other appropriate measures on all or individual providers of electronic communications to the public if this is necessary to ensure compliance with the provisions of this Regulation on the safeguarding of open internet access or to prevent degradation of the general quality of service of internet access services for end-users. In doing so, national regulatory authorities should take utmost account of relevant guidelines from BEREC.
@@ -892,8 +905,11 @@ National regulatory authorities shall publish reports on an annual basis regardi
 
 ## Article 10(2)
 > It shall apply from 30 April 2016, except for the following:
+> 
 > [ ]
+> 
 > (c) Article 5(3) shall apply from 29 November 2015;
+> 
 > [ ]
 
 189. The Regulation applies from 30 April 2016, except for Article 5(3) which obliges BEREC to issue these Guidelines and which applies from 29 November 2015.

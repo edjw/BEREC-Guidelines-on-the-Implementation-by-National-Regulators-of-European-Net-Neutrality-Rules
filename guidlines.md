@@ -95,7 +95,7 @@ Examples of criteria which could be used to make assessments include the contrac
 
 ## Article 3(1)
 > End-users shall have the right to access and distribute information and content, use and provide applications and services, and use terminal equipment of their choice, irrespective of the end-user’s or provider’s location or the location, origin or destination of the information, content, application or service, via their internet access service.
-
+> 
 > This paragraph is without prejudice to Union law, or national law that complies with Union law, related to the lawfulness of the content, applications or services.
 
 *Recital 5*

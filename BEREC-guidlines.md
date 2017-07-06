@@ -9,8 +9,11 @@ BoR (16) 127
    * [Background and general aspects](#background-and-general-aspects)
       * [Terminology](#terminology)
    * [Article 1 – Subject matter and scope](#article-1--subject-matter-and-scope)
+   
          * [Recital 1](#recital-1)
+   
          * [Recital 2](#recital-2)
+         
          * [Recital 3](#recital-3)
    * [Article 2 – Definitions](#article-2--definitions)
             * [“Provider of electronic communications to the public”](#provider-of-electronic-communications-to-the-public)

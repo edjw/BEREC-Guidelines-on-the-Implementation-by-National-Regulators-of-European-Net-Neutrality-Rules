@@ -124,7 +124,7 @@ say they neither impose nor discriminate in favour of the use of a particular ty
 
 5. CAPs are protected as end-users under the Regulation in so far as CAPs use an IAS to reach other end-users. However, some CAPs may also operate their own networks and, as part of that, have interconnection agreements with ISPs; the provision of interconnection is a distinct service from the provision of IAS.
 
-6. NRAs may take into account the interconnection policies and practices of ISPs in so far as they have the effect of limiting the exercise of end-user rights under Article 3(1). For  example, this may be relevant in some cases, such as if the interconnection is implemented in a way which seeks to circumvent the Regulation.<<a href="#note5" id="note5ref">sup>5</sup></a>
+6. NRAs may take into account the interconnection policies and practices of ISPs in so far as they have the effect of limiting the exercise of end-user rights under Article 3(1). For  example, this may be relevant in some cases, such as if the interconnection is implemented in a way which seeks to circumvent the Regulation.<a href="#note5" id="note5ref">sup>5</sup></a>
 
 # Article 2 – Definitions
 > For the purposes of this Regulation, the definitions set out in Article 2 of Directive 2002/21/EC apply. The following definitions also apply:

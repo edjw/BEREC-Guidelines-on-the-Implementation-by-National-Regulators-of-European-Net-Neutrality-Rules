@@ -4,7 +4,7 @@ August 2016
 
 BoR (16) 127
 
-**Table of Contents**
+## Table of Contents
 
    * [Background and general aspects](#background-and-general-aspects)
       * [Terminology](#terminology)

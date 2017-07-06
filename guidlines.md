@@ -1,43 +1,35 @@
 BoR (16) 127
-
 BEREC Guidelines on the Implementation by National Regulators of European Net Neutrality Rules
-
 August 2016
 
 
-
-
-
-Background and general aspects
+# Background and general aspects
 1. These BEREC Guidelines drafted in accordance with Article 5(3) of the Regulation1 are designed to provide guidance on the implementation of the obligations of NRAs. Specifically, this includes the obligations to closely monitor and ensure compliance with the rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users rights as laid down in Articles 3 and 4. These Guidelines constitute recommendations to NRAs, and NRAs should take utmost account of the Guidelines.2 The Guidelines should contribute to the consistent application of the Regulation, thereby contributing to regulatory certainty for stakeholders.
 
-Terminology
+## Terminology
 2. For the purpose of these Guidelines, BEREC has used the following terms throughout
 the Guidelines to improve readability.3
 
-Application
-In these Guidelines, BEREC use the term “application” as a short expression for more lengthy expressions from the Regulation, like “applications and services”, “content, application and service”.
+Application: In these Guidelines, BEREC use the term “application” as a short expression for more lengthy expressions from the Regulation, like “applications and services”, “content, application and service”.
 
-CAP
-(Content CAPs make content (e.g. web pages, blogs, video) and/or applications and Application (e.g. search engines, VoIP applications) and/or services available on the Provider) Internet. CAPs may also make content, services and applications available via specialised services.
+CAP: (Content CAPs make content (e.g. web pages, blogs, video) and/or applications and Application (e.g. search engines, VoIP applications) and/or services available on the Provider) Internet. CAPs may also make content, services and applications available via specialised services.
 
-ISP
-(Internet In these Guidelines, BEREC uses the term “ISP” to refer to providers of Service internet access services (IAS). ISPs may also be providers of Provider) specialised services.
+ISP: (Internet In these Guidelines, BEREC uses the term “ISP” to refer to providers of Service internet access services (IAS). ISPs may also be providers of Provider) specialised services.
 
-Specialised service
-In these Guidelines, BEREC uses the term “specialised services” as a short expression for “services other than internet access services which are optimised for specific content, applications or services, or a combination thereof, where the optimisation is necessary in order to meet requirements of the content, applications or services for a specific level of quality” (ref. Article 3(5)).
-
+Specialised service: In these Guidelines, BEREC uses the term “specialised services” as a short expression for “services other than internet access services which are optimised for specific content, applications or services, or a combination thereof, where the optimisation is necessary in order to meet requirements of the content, applications or services for a specific level of quality” (ref. Article 3(5)).
 
-Article 1
-Subject matter and scope This Regulation establishes common rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users’ rights.
 
-Recital 1
+# Article 1 – Subject matter and scope
+This Regulation establishes common rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users’ rights.
+
+*Recital 1*
 This Regulation aims to establish common rules to safeguard equal and non-discriminatory treatment of traffic in the provision of internet access services and related end-users’ rights. It aims to protect end-users and simultaneously to guarantee the continued functioning of the internet ecosystem as an engine of innovation.
 
-Recital 2
+*Recital 2*
 The measures provided for in this Regulation respect the principle of technological neutrality, that is to
 say they neither impose nor discriminate in favour of the use of a particular type of technology.
-Recital 3
+
+*Recital 3*
 The internet has developed over the past decades as an open platform for innovation with low access barriers for end-users, providers of content, applications and services and providers of internet access services. The existing regulatory framework aims to promote the ability of end-users to access and distribute information or run applications and services of their choice. However, a significant number of end-users are affected by traffic management practices which block or slow down specific applications or services. Those tendencies require common rules at the Union level to ensure the openness of the internet and to avoid fragmentation of the internal market resulting from measures adopted by individual Member States.
 
 3. Article 1 sets out the subject matter and scope of the Regulation, which is to establish common rules to safeguard “equal and non-discriminatory treatment of traffic in the provision of internet access services” and “related end-users’ rights”.
@@ -46,15 +38,14 @@ The internet has developed over the past decades as an open platform for innovat
 
 5. CAPs are protected as end-users under the Regulation in so far as CAPs use an IAS to reach other end-users. However, some CAPs may also operate their own networks and, as part of that, have interconnection agreements with ISPs; the provision of interconnection is a distinct service from the provision of IAS.
 
-6. NRAs may take into account the interconnection policies and practices of ISPs in so far as they have the effect of limiting the exercise of end-user rights under Article 3(1). For  example, this may be relevant in some cases, such as if the interconnection is implemented in a way which seeks to circumvent the Regulation.5
+6. NRAs may take into account the interconnection policies and practices of ISPs in so far as they have the effect of limiting the exercise of end-user rights under Article 3(1). For  example, this may be relevant in some cases, such as if the interconnection is implemented in a way which seeks to circumvent the Regulation.5
 
-Article 2
-Definitions
+# Article 2 – Definitions
 For the purposes of this Regulation, the definitions set out in Article 2 of Directive 2002/21/EC apply. The following definitions also apply:
 
 7. The definitions of Article 2 of Directive 2002/21/EC also apply for the purposes of these Guidelines. This includes the terms “end-user”, “consumer”, “electronic communications services”, “electronic communications network” and “network termination point (NTP)”.
 
-“Provider of electronic communications to the public”
+**“Provider of electronic communications to the public”**
 (1) ‘provider of electronic communications to the public’ means an undertaking providing public communications networks or publicly available electronic communications services;
 
 8. The term “provider of electronic communications to the public” (PECP) comprises both “public communications networks” and “electronic communications services” (ECS), which are defined in Article 2 of the Framework Directive.6
@@ -69,13 +60,13 @@ For the purposes of this Regulation, the definitions set out in Article 2 of Dir
 
 * access to the internet provided by cafés and restaurants;
 * internal corporate networks.
-
+
 Examples of criteria which could be used to make assessments include the contractual relationship under which the service is provided, the range of users and whether the range is predetermined.
 
-“Internet access service”
+**“Internet access service”**
 (2) ‘internet access service’ means a publicly available electronic communications service that provides access to the internet, and thereby connectivity to virtually all end points of the internet, irrespective of the network technology and terminal equipment used.
 
-Recital 4
+*Recital 4*
 An internet access service provides access to the internet, and in principle to all the end-points thereof, irrespective of the network technology and terminal equipment used by end-users. However, for reasons outside the control of providers of internet access services, certain end points of the internet may not always be accessible. Therefore, such providers should be deemed to have complied with their obligations related to the provision of an internet access service within the meaning of this Regulation when that service provides connectivity to virtually all end points of the internet. Providers of internet access services should therefore not restrict connectivity to any accessible end-points of the internet.
 
 13. Article 2(2) defines an “internet access service” (IAS) as an ECS that provides access to the internet, and thereby connectivity to virtually all end points of the internet, irrespective of the network technology and terminal equipment used.
@@ -87,35 +78,30 @@ An internet access service provides access to the internet, and in principle to 
 16. Where restrictions to reach end-points stem from the use of two different internet addressing schemes, IPv4 and IPv6, this typically does not mean the services cannot be defined as an IAS. While it is not possible to connect two different points with different types of addresses without any translation function, BEREC considers that the term “virtually all end points” should, at present, not be interpreted as a requirement on ISPs to offer connectivity with both IPv4 and IPv6.
 
 17. BEREC understands a sub-internet service to be a service which restricts access to services or applications (e.g. banning the use of VoIP or video streaming) or enables access to only a pre-defined part of the internet (e.g. access only to particular websites). NRAs should take into account the fact that an ISP could easily circumvent the Regulation by providing such sub-internet offers. These services should therefore be considered to be in the scope of the Regulation and the fact that they provide a limited access to the internet should constitute an infringement of Articles 3(1), 3(2) and 3(3) of the Regulation. BEREC refers to these service offers as ‘sub-internet services’, as further discussed in paragraphs 38 and 55.
-
+
 18. Services where the number of reachable end-points is limited by the nature of the terminal equipment used with such services (e.g. services designed for communication with individual devices, such as e-book readers as well as machine-to-machine7 devices like smart meters etc.) are considered to be outside the scope of the Regulation unless they are used to circumvent this Regulation. They could use an IAS (but not provide an IAS nor constitute a substitute to an IAS), use a private network or constitute a specialised service. If these services are using an IAS or constitute a specialised service the connectivity service will be subject to the relevant rules applicable to IAS and specialised services in the Regulation.8
 
-Article 3
-Safeguarding of open internet access
+# Article 3 – Safeguarding of open internet access
 19. Article 3 comprises measures intended to safeguard open internet access, covering the rights of the end-users of IAS, and obligations and permitted practices for the ISPs:
 * Article 3(1) sets out the rights of end-users of IAS;
-
 * Article 3(2) sets limits on the contractual conditions which may be applied to IAS and the commercial practices of ISPs providing IAS, and requires that these should not limit exercise of the end-user rights set out in paragraph 1. When assessing commercial practices, Article 3(3) should also be taken into account;
-
 * Article 3(3) constrains ISPs’ traffic management practices, setting a requirement that ISPs should treat all data traffic equally and making provision for the specific circumstances under which ISPs may deviate from this rule;
-
 * Article 3(4) sets out the conditions under which traffic management measures may entail processing of personal data;
-
 * Article 3(5) sets out the freedom of ISPs and CAPs to provide specialised services as well as the conditions under which this freedom may be exercised.
 
 20. The Regulation observes the fundamental rights of, and the principles recognised in, the Charter, notably the protection of personal data, the freedom of expression and information, the freedom to conduct a business, non-discrimination and consumer protection (ref. Recital 33).
 
 21. BEREC considers that the Regulation does not require an ex ante authorisation in relation to commercial practices (Article 3(2)), traffic management practices (Article 3(3)) and specialised services (Article 3(5)). However, this should not preclude exchanges between NRAs and market players in relation to these issues, nor does it preclude NRAs from drawing on their obligations or powers to intervene under Article 5.
-
-Article 3(1)
+
+## Article 3(1)
 End-users shall have the right to access and distribute information and content, use and provide applications and services, and use terminal equipment of their choice, irrespective of the end-user’s or provider’s location or the location, origin or destination of the information, content, application or service, via their internet access service.
 
 This paragraph is without prejudice to Union law, or national law that complies with Union law, related to the lawfulness of the content, applications or services.
 
-Recital 5
+*Recital 5*
 When accessing the internet, end-users should be free to choose between various types of terminal equipment as defined in Commission Directive 2008/63/EC (1). Providers of internet access services should not impose restrictions on the use of terminal equipment connecting to the network in addition to those imposed by manufacturers or distributors of terminal equipment in accordance with Union law.
 
-Recital 6
+*Recital 6*
 End-users should have the right to access and distribute information and content, and to use and provide applications and services without discrimination, via their internet access service. The exercise of this right should be without prejudice to Union law, or national law that complies with Union law, regarding the lawfulness of content, applications or services. This Regulation does not seek to regulate the lawfulness of the content, applications or services, nor does it seek to regulate the procedures, requirements and safeguards related thereto. Those matters therefore remain subject to Union law, or national law that complies with Union law.
 
 22. Article 3(1) sets out the end-users’ rights with regard to the open internet. The notion of end-user is explained in paragraph 4 of these Guidelines.
@@ -123,27 +109,26 @@ End-users should have the right to access and distribute information and content
 “Access and distribute information and content”
 23. Firstly, end-users have the right to access and distribute information and content. “Access and distribute” means that the provisions of this Regulation apply to both sending and receiving data over the IAS. “Information and content” is intended to cover any form of data that can be sent or received over the IAS.
 
-“Use and provide applications and services”
+**“Use and provide applications and services”**
 24. Secondly, end-users have the right to use and provide applications and services. “Use and provide” means that the right applies both to consumption and provision of applications and services. “Applications and services” means both applications (including client and server software) as well as services.
 
-“Use terminal equipment of their choice”
+**“Use terminal equipment of their choice”**
 25. Thirdly, end-users have the right to use terminal equipment of their choice. Directive 2008/63/EC defines “terminal equipment” as “equipment directly or indirectly connected to the interface of a public telecommunication network”. The right to choose terminal equipment therefore covers equipment which connects to the interface of the public telecommunications network. This interface, the network termination point (NTP), is defined in Article 2 (da) of the Framework Directive (2002/21/EC), meaning the physical point at which a subscriber is provided with access to a public communications network.
 
 26. In considering whether end-users may use the terminal equipment of their choice, NRAs should assess whether an ISP provides equipment for its subscribers and restricts the end-users’ ability to replace that equipment with their own equipment, i.e. whether it provides “obligatory equipment”.
 
 27. Moreover, NRAs should consider whether there is an objective technological necessity for the obligatory equipment to be considered as part of the ISP network. If there is not, and if the choice of terminal equipment is limited, the practice would be in conflict with the Regulation. For example, the practice of restricting tethering9 is likely to constitute a restriction on choice of terminal equipment because ISPs “should not impose restrictions on the use of terminal equipment connecting to the network in addition to those imposed by manufacturers or distributors of terminal equipment in accordance with Union law” (Recital 5).
 
-Legislation related to the lawfulness of the content, applications or services
-
+**Legislation related to the lawfulness of the content, applications or services**
 28. Article 3(1) second subparagraph specifies that Union law, and national law that complies with Union law, related to the lawfulness of content, applications or services still applies. The TSM Regulation does not seek to regulate the lawfulness of the content, applications or services (ref. Recital 6).
 
 29. Whereas Article 3(1) second subparagraph contains a clarification with regard to the applicability of such legislation, Article 3(3) (a) provides for an exception for ISPs to implement measures going beyond reasonable traffic management measures in order to comply with legislation or measures as specified in that exception.
 
-Article 3(2)
+## Article 3(2)
 Agreements between providers of internet access services and end-users on commercial and technical conditions and the characteristics of internet access services such as price, data volumes or speed, and any commercial practices conducted by providers of internet access services, shall not limit the exercise of the rights of end-users laid down in paragraph 1.
 
-Recital 7
-In order to exercise their rights to access and distribute information and content and to use and provide applications and services of their choice, end-users should be free to agree with providers of internet access services on tariffs for specific data volumes and speeds of the internet access service. Such agreements, as well as any commercial practices of providers of internet access services, should not limit the exercise of those rights and thus circumvent provisions of this Regulation safeguarding open internet access. National regulatory and other competent authorities should be empowered to intervene against agreements or commercial practices which, by reason of their scale, lead to situations where end-users’ choice is materially reduced in practice. To this end, the assessment of agreements and commercial practices should, inter alia, take into account the respective market positions of those providers of internet access services, and of the providers of content, applications and services, that are involved. National regulatory and other competent authorities should be required, as part of their monitoring and enforcement function, to intervene when  agreements or commercial practices would result in the undermining of the essence of the end-users’ rights.
+*Recital 7*
+In order to exercise their rights to access and distribute information and content and to use and provide applications and services of their choice, end-users should be free to agree with providers of internet access services on tariffs for specific data volumes and speeds of the internet access service. Such agreements, as well as any commercial practices of providers of internet access services, should not limit the exercise of those rights and thus circumvent provisions of this Regulation safeguarding open internet access. National regulatory and other competent authorities should be empowered to intervene against agreements or commercial practices which, by reason of their scale, lead to situations where end-users’ choice is materially reduced in practice. To this end, the assessment of agreements and commercial practices should, inter alia, take into account the respective market positions of those providers of internet access services, and of the providers of content, applications and services, that are involved. National regulatory and other competent authorities should be required, as part of their monitoring and enforcement function, to intervene when  agreements or commercial practices would result in the undermining of the essence of the end-users’ rights.
 
 30. Article 3(2) clarifies that agreements between ISPs and end-users on commercial and technical conditions and the characteristics of IAS such as price, data volumes or speed, and any commercial practices conducted by ISPs are allowed, but shall not limit the exercise of the rights of end-users laid down in Article 3(1).
 
@@ -185,7 +170,7 @@ cap is reached in order to purchase access to additional data.
 
 42. The ISP could either apply or offer zero-rating to an entire category of applications (e.g. all video or all music streaming applications) or only to certain applications thereof (e.g. its own services, one specific social media application, the most popular video or music applications). In the latter case, an end-user is not prevented from using other music applications. However, the zero price applied to the data traffic of the zero-rated music application (and the fact that the data traffic of the zero-rated music application does not count towards any data cap in place on the IAS) creates an economic incentive to use that music application instead of competing ones. The effects of such a practice applied to a specific application are more likely to “undermine the essence of the end-users’ rights” or lead to circumstances where “end-users’ choice is materially reduced in practice” (Recital 7) than when it is applied to an entire category of applications.
 
-43. When assessing such agreements or commercial practices like zero-rating in relation to Article 3(2), the assessment should take into account the aim of the Regulation to  “safeguard equal and non-discriminatory treatment of traffic” (Article 1) and to “guarantee the continued functioning of the internet ecosystem as an engine of innovation” (Recital 1) as well as Recital 7, which directs intervention against agreements or commercial practices which, “by reason of their scale, lead to situations where end-users’ choice is materially reduced in practice”, or which would result in “the undermining of the essence of the end-users’ rights”.
+43. When assessing such agreements or commercial practices like zero-rating in relation to Article 3(2), the assessment should take into account the aim of the Regulation to  “safeguard equal and non-discriminatory treatment of traffic” (Article 1) and to “guarantee the continued functioning of the internet ecosystem as an engine of innovation” (Recital 1) as well as Recital 7, which directs intervention against agreements or commercial practices which, “by reason of their scale, lead to situations where end-users’ choice is materially reduced in practice”, or which would result in “the undermining of the essence of the end-users’ rights”.
 
 44. Recital 7 also indicates that the assessment should take into account the “respective market positions of those providers of internet access services, and of the providers of content, applications and services, that are involved”.
 
@@ -200,7 +185,7 @@ cap is reached in order to purchase access to additional data.
   * whether the IAS subscription contains characteristics which materially reduce end-user choice (see in more detail in paragraph 48).
 * the effects on CAP end-user rights, which encompasses an assessment of, inter alia:
 
-  * whether there is an effect on the range and diversity of content and applications which CAPs provide,13 and to what extent the range and diversity of applications may not be effectively accessed;
+  * whether there is an effect on the range and diversity of content and applications which CAPs provide,13 and to what extent the range and diversity of applications may not be effectively accessed;
   * whether CAPs are materially discouraged from entering the market or forced to leave the market, or whether there are other material harms to competition in the market concerned (see in more detail in the fourth bullet of paragraph 48 with regard to offers);
   * whether the continued functioning of the internet ecosystem as an engine of innovation is impacted, for example, whether it is the ISP that picks winners and losers, and on the administrative and/or technical barriers for CAPs to enter into agreements with ISPs.
 * the scale of the practice and the presence of alternatives - a practice is more likely to limit the exercise of end-user rights in a situation where, for example, many end-users are concerned and/or there are few alternative offers and/or competing ISPs for the end-users to choose from.
@@ -358,7 +343,7 @@ Article 3(3) (a)
 (a) comply with Union legislative acts, or national legislation that complies with Union law, to which the provider of internet access services is subject, or with measures that comply with Union law giving effect to such Union legislative acts or national legislation, including with orders by courts or public authorities vested with relevant powers;
 
 Recital 13
-First, situations may arise in which providers of internet access services are subject to Union legislative acts, or national legislation that complies with Union law (for example, related to the lawfulness of content, applications or services, or to public safety), including criminal law, requiring, for example, blocking of specific content, applications or services. In addition, situations may arise in which those providers are subject to measures that comply with Union law, implementing or applying Union legislative acts or national legislation, such as measures of general application, court orders, decisions of public authorities vested with relevant powers, or other measures ensuring compliance  with such Union legislative acts or national legislation (for example, obligations to comply with court orders or orders by public authorities requiring to block unlawful content). The requirement to comply with Union law relates, inter alia, to the compliance with the requirements of the Charter of Fundamental Rights of the European Union (‘the Charter’) in relation to limitations on the exercise of fundamental rights and freedoms. As provided in Directive 2002/21/EC of the European Parliament and of the Council ( 1 ), any measures liable to restrict those fundamental rights or freedoms are only to be imposed if they are appropriate, proportionate and necessary within a democratic society, and if their implementation is subject to adequate procedural safeguards in conformity with the European Convention for the Protection of Human Rights and Fundamental Freedoms, including its provisions on effective judicial protection and due process.
+First, situations may arise in which providers of internet access services are subject to Union legislative acts, or national legislation that complies with Union law (for example, related to the lawfulness of content, applications or services, or to public safety), including criminal law, requiring, for example, blocking of specific content, applications or services. In addition, situations may arise in which those providers are subject to measures that comply with Union law, implementing or applying Union legislative acts or national legislation, such as measures of general application, court orders, decisions of public authorities vested with relevant powers, or other measures ensuring compliance  with such Union legislative acts or national legislation (for example, obligations to comply with court orders or orders by public authorities requiring to block unlawful content). The requirement to comply with Union law relates, inter alia, to the compliance with the requirements of the Charter of Fundamental Rights of the European Union (‘the Charter’) in relation to limitations on the exercise of fundamental rights and freedoms. As provided in Directive 2002/21/EC of the European Parliament and of the Council ( 1 ), any measures liable to restrict those fundamental rights or freedoms are only to be imposed if they are appropriate, proportionate and necessary within a democratic society, and if their implementation is subject to adequate procedural safeguards in conformity with the European Convention for the Protection of Human Rights and Fundamental Freedoms, including its provisions on effective judicial protection and due process.
 
 81. If an ISP applies traffic management measures which cannot be regarded as reasonable, NRAs should assess whether an ISP does so because it has to do so for legal reasons, namely to comply with the legislation or measures by public authorities specified in that exception.
 
@@ -532,7 +517,7 @@ Providers of internet access services shall publish the information referred to 
 
 Recital 18
 The provisions on safeguarding of open internet access should be complemented by effective end-user provisions which address issues particularly linked to internet access services and enable end-users to make informed choices. Those provisions should apply in addition to the applicable provisions of Directive 2002/22/EC of the European Parliament and of the Council (1) and Member States should have the possibility to maintain or adopt more far- reaching measures. Providers of internet access services should inform end-users in a clear manner how traffic management practices deployed might have an impact on the quality of internet access services, end-users’ privacy and the protection of personal data as well as about the possible impact of services other than internet access services to which they subscribe, on the quality and availability of their respective internet access services. In order to empower end-users in such situations, providers of internet access services should therefore inform end-users in the contract of the speed which they are able realistically to deliver. The normally available speed is understood to be the speed that an end-user could expect to receive most of the time when accessing the service. Providers of internet access services should also inform consumers of available remedies in accordance with national law in the event of noncompliance of performance. Any significant and continuous or regularly recurring difference, where established by a monitoring mechanism certified by the national regulatory authority, between the actual performance of the service and the performance indicated in the contract should be deemed to constitute non- conformity of performance for the purposes of determining the remedies available to the consumer in accordance with national law. The methodology should be established in the guidelines of the Body of European Regulators for Electronic Communications (BEREC) and reviewed and updated as necessary to reflect technology and infrastructure evolution. National regulatory authorities should enforce compliance with the rules in this Regulation on transparency measures for ensuring open internet access.
-
+
 128. NRAs should ensure that ISPs include relevant information referred to in Article 4(1) (a) to (e) in a clear, comprehensible and comprehensive manner in contracts that include IAS, and publish that information, for example on an ISP’s website.
 
 129. NRAs should also note that the transparency requirements laid down in Articles 4(1) and 4(2) are in addition to the measures provided in directive 2002/22/EC (the Universal Service Directive), particularly in Chapter IV thereof. National law may also lay down additional monitoring, information and transparency requirements, including those concerning the content, form and manner of the information to be published.
@@ -572,7 +557,7 @@ Article 4(1) (a)
 
 Article 4(1) (b)
 (b) a clear and comprehensible explanation as to how any volume limitation, speed and other quality of service parameters may in practice have an impact on internet access services, and in particular on the use of content, applications and services;
-
+
 137. Besides speed, the most important QoS parameters are delay, delay variation (jitter) and packet loss. These other QoS parameters should be described if they might, in practice, have an impact on the IAS and use of applications. NRAs should ensure that ISPs provide end-users with information which is effects-based. End-users should be able to understand the implications of these parameters to the usage of applications and whether certain applications (e.g. interactive speech/video or 4K video streaming) cannot in fact be used due to the long delay or slow speed of the IAS. Categories of applications or popular examples of these affected applications could be provided.
 
 138. Regarding volume limitations, contracts should specify the ‘size’ of the cap (in quantitative terms, e.g. GB), what that means in practice and the consequences of exceeding it (e.g. additional charges, speed restrictions, blocking of all traffic etc.). If the speed will decrease after a data cap has been reached, that should be taken into account when specifying speeds in a contract and publishing the information. Information and examples could also be provided about what kind of data usage would lead to a situation where the data cap is reached (e.g. indicative amount of time using popular applications, such as SD video, HD video and music streaming).
@@ -631,7 +616,7 @@ Advertised speed
 156. The advertised speed for a mobile IAS offer should reflect the speed which the ISP is realistically able to deliver to end-users. Although the transparency requirements regarding IAS speed are less detailed for mobile IAS than for fixed IAS, the advertised speed should enable end-users to make informed choices, for example, so they are able to evaluate the value of the advertised speed vis-à-vis the actual performance of the IAS. Significant factors that limit the speeds achieved by end-users should be specified.
 
 157. NRAs could set requirements in accordance with Article 5(1) on how speeds defined in the contract relate to advertised speeds, for example that the advertised speed for an IAS as specified in a contract should not exceed the estimated maximum speed as defined in the same contract. See also paragraph 142.
-
+
 Article 4(1) (e)
 (e) a clear and comprehensible explanation of the remedies available to the consumer in accordance with national law in the event of any continuous or regularly recurring discrepancy between the actual performance of the internet access service regarding speed or other quality of service parameters and the performance indicated in accordance with points (a) to (d).
 
